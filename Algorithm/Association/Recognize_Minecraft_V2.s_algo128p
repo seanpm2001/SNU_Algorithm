@@ -1,0 +1,168 @@
+# This is a SNU algorithm file
+# File language: Python
+# File format: .s_algo128p (SNU Algorithm 128 bit python resource script file)
+# Compatibility: unknown, Python 3.5, Python 3.6, Python 3.7, Python 3.8
+# Size: 00,.741 bytes (0,.751 Kilobytes) (0000 Megabytes) # Size is in base 10 (1000B = 1KB)
+# Lines: 0,.113
+# File version: 1 (August 16th 2019)
+GameRecognition:Minecraft
+''' # divider # '''
+MinecraftInfo
+MediaType="Game"
+Category="Gaming"
+ReleaseYear=2009
+RecognizeBeta=true
+RecognizeAlpha=true
+''' # divider # '''
+SearchTexturePacks:
+MinecraftClassic
+PewDiePieTexturePack
+Minecraft1.7-like
+Minecraft1.8-like
+Minecraft1.9
+''' # divider # '''
+Developers
+JavaEdition: Mojang AB
+BedrockEdition: Microsoft corporation
+PythonEdition: Seanwallawalla
+''' # divider # '''
+Programming language
+JavaEdition: Java
+BedrockEdition: C++
+PythonEdition: Python 3.7
+''' # divider # '''
+SearchTerms:
+Minecraft Pocket Edition
+''' # divider # '''
+Editions:
+Minecraft Xbox 360 edition
+Minecraft Xbox one edition
+Minecraft Java Edition
+Minecraft Bedrock Edition
+Minecraft Windows 10 Edition
+Minecraft Education Edition
+Minecraft Nintendo Switch Edition
+''' # divider # '''
+Platforms:
+Windows 98 FE
+Windows 98 SE
+Windows 2000
+Windows ME
+Windows XP
+Windows Vista
+Windows 7
+Windows 8
+Windows 8.1
+Windows 10
+MacOS X 10.1
+MacOS X 10.2
+MacOS X 10.3
+MacOS X 10.4
+MacOS X 10.5
+MacOS X 10.6
+MacOS X 10.7
+OS X 10.8
+OS X 10.9
+OS X 10.10
+MacOS 10.11
+MacOS 10.12
+MacOS 10.13
+MacOS 10.14
+MacOS 10.15
+Android 1.5
+Android 1.6
+Android 2.0
+Android 2.1
+Android 2.2
+Android 2.3
+Android 3.0
+Android 3.1
+Android 4.0
+Android 4.1
+Android 4.2
+Android 4.3
+Android 4.4
+Android 5.0
+Android 5.1
+Android 6.0
+Android 6.1
+Android 7.0
+Android 7.1
+Android 8.0
+Android 8.1
+Android 9.0
+Android 10.0
+iPhone OS 3
+iOS 4
+iOS 5
+iOS 6
+iOS 7
+iOS 8
+iOS 9
+iOS 10
+iOS 11
+iOS 12
+iOS 13
+iPadOS 13
+Debian 5.0
+Debian 6.0
+Debian 7
+Debian 8
+Debian 9
+Arch Linux
+Ubuntu 10.04
+Ubuntu 10.10
+Ubuntu 11.04
+Ubuntu 11.10
+Ubuntu 12.04
+Ubuntu 12.10
+Ubuntu 13.04
+Ubuntu 13.10
+Ubuntu 14.04
+Ubuntu 14.10
+Ubuntu 15.04
+Ubuntu 15.10
+Ubuntu 16.04
+Ubuntu 16.10
+Ubuntu 17.04
+Ubuntu 17.10
+Ubuntu 18.04
+Ubuntu 18.10
+Ubuntu 19.04
+''' # divider # '''
+Abbreviations:
+MC
+''' # divider # '''
+GameCharacters:
+Steve (player)
+Alex (player)
+Notch
+Jeb
+Jeb_
+Dinnerbone
+Grumm
+Creeper
+Wither
+Zombie Pigmen
+Ghast
+Wither skeleton
+Slime
+Magma cube
+Blaze
+Silverfish
+Ender dragon
+Enderman
+Shulker
+Mooshroom
+''' # divider # '''
+FanCharacters
+Watersheep (light grey sheep) (From PewDiePies Minecraft series)
+Boatcow (mooshroom) (cow) (From PewDiePies Minecraft series)
+Joergen (horse) (From PewDiePies Minecraft series)
+Joergen #2 (horse) (From PewDiePies Minecraft series)
+Bernie (donkey) (From PewDiePies Minecraft series)
+Peepeepoopoo (pig) (From PewDiePies Minecraft series)
+Sven (wolf) (From PewDiePies Minecraft series)
+
+''' # divider # '''
+# I can't really do much algorithm files yet, as I have no core to test it with. I also don't have the proper Python knowledge yet

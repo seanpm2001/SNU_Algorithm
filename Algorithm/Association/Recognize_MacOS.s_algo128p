@@ -1,0 +1,108 @@
+# This is a SNU algorithm file
+# File language: Python
+# File format: .s_algo128p (SNU Algorithm 128 bit python resource script file)
+# Compatibility: unknown, Python 3.5, Python 3.6, Python 3.7, Python 3.8
+# Size: 00,.741 bytes (0,.751 Kilobytes) (0000 Megabytes) # Size is in base 10 (1000B = 1KB)
+# Lines: 0,.113
+# File version: 1 (August 16th 2019)
+ProductRecognition:OperatingSystemFamily
+''' # divider # '''
+OSFamInfo
+MediaType="Software"
+Variant: UNIX/BSD (modern) custom (pre-2001)
+Category="Proprietary operating systems"
+ReleaseYear="1984""1985""1986""1987""1988""1989""1990""1991""1992""1993""1994""1995""1996""1997""1998""1999""2000""2001""2002""2003""2004""2005""2006""2007""2008""2009""2010""2011""2012""2013""2014""2015""2016""2017""2018""2019"
+''' # divider # '''
+Developers
+Apple corporation
+''' # divider # '''
+Programming language
+
+''' # divider # '''
+SearchTerms:
+Mac
+MacOS
+Apple Computer
+OS X
+System 1
+System 2
+System 3
+System 4
+System 5
+System 6
+MacOS X
+Aqua theme
+''' # divider # '''
+Complete family {
+System 1 (1984)
+System 2
+System 3
+System 4
+System 5
+System 6
+MacOS 7
+MacOS 8
+MacOS 9
+MacOS X 10.0 beta
+MacOS X 10.0 (2001)
+MacOS X 10.1
+MacOS X 10.2
+MacOS X 10.2
+MacOS X 10.3
+MacOS X 10.4
+MacOS X 10.5
+MacOS X 10.6
+MacOS X 10.7
+OS X 10.8
+OS X 10.9
+OS X 10.10
+MacOS 10.11
+MacOS 10.12
+MacOS 10.13
+MacOS 10.14
+MacOS 10.15
+}
+ThisFile.ignore(iOS) {
+iPhone OS 1
+iPhone OS 2
+iPhone OS 3
+iOS 4
+iOS 5
+iOS 6
+iOS 7
+iOS 8
+iOS 9
+iOS 10
+iOS 11
+iOS 12
+iOS 13
+iPadOS 13
+}
+''' # divider # '''
+BrowserDetection
+
+''' # divider # '''
+DetectMedia
+
+happyMac
+sadMac
+mac128k
+iMac
+mojaveWallpaper
+finder
+MacOS9Wallpaper
+trashCanMacOSClassic
+
+''' # divider # '''
+Abbreviations:
+MAC (Macintosh)
+iOS (iPhone Operating System)
+
+''' # divider # '''
+don't confuse with:
+McDonalds Big Mac
+Apple (fruit)
+Lisa Simpson (character from show: the Simpsons) - apple Lisa
+i (???)
+''' # divider # '''
+# I can't really do much algorithm files yet, as I have no core to test it with. I also don't have the proper Python knowledge yet

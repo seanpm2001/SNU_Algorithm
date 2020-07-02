@@ -1,0 +1,21 @@
+# This is a SNU algorithm file
+# File language: Python
+# File format: .s_algo128p (SNU Algorithm 128 bit python resource script file)
+# Compatibility: unknown, Python 3.5, Python 3.6, Python 3.7, Python 3.8
+# Size: 00,.741 bytes (0,.751 Kilobytes) (0000 Megabytes) # Size is in base 10 (1000B = 1KB)
+# Lines: 0,.113
+# File version: 1 (August 16th 2019)
+GameRecognition:Minecraft
+MinecraftInfo
+MediaType="Game"
+Category="Gaming"
+ReleaseYear=2009
+RecognizeBeta=true
+RecognizeAlpha=true
+SearchTexturePacks:
+MinecraftClassic
+PewDiePieTexturePack
+Minecraft1.7-like
+Minecraft1.8-like
+Minecraft1.9
+# I can't really do much algorithm files yet, as I have no core to test it with. I also don't have the proper Python knowledge yet

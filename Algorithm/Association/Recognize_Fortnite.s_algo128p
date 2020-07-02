@@ -1,0 +1,30 @@
+# This is a SNU algorithm file
+# File language: Python
+# File format: .s_algo128p (SNU Algorithm 128 bit python resource script file)
+# Compatibility: unknown, Python 3.5, Python 3.6, Python 3.7, Python 3.8
+# Size: 00,.741 bytes (0,.751 Kilobytes) (0000 Megabytes) # Size is in base 10 (1000B = 1KB)
+# Lines: 0,.113
+# File version: 1 (August 16th 2019)
+GameRecognition:Fortnite
+FortniteInfo
+MediaType="Game"
+Category="Gaming"
+ReleaseYear=2018
+Tags:
+BattleRoyale
+FirstPersonShooter
+GameAvailability: Online only
+Platforms:NintendoSwitch,Windows10,MacOS,
+NotOn: Linux, other BSD based systems that aren't MacOS
+SearchTermsToFind:
+Epic Victory Royale
+Ninja # streamer
+Season pass
+Fortnite dances
+Parody terms:
+Fortnite funnies
+AgeRating:17+
+Publisher:EpicGames
+SearchTermsToIgnore:
+Fortnight (this sounds the same, but means: once every 14 days)
+# I can't really do much algorithm files yet, as I have no core to test it with. I also don't have the proper Python knowledge yet
