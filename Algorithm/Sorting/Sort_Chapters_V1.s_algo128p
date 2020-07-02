@@ -1,0 +1,114 @@
+# This is a SNU algorithm file
+# File language: Python
+# File format: .s_algo128p (SNU Algorithm 128 bit python resource script file)
+# Compatibility: unknown, Python 3.5, Python 3.6, Python 3.7, Python 3.8
+# Size: 01,.926 bytes (1,.926 Kilobytes) (0000 Megabytes) # Size is in base 10 (1000B = 1KB)
+# Lines: 0,.113
+# File version: 1 (August 15th 2019)
+'''
+File purpose:
+Recommending and sorting media in order by numbering, chapters, and episodes
+'''
+# Start of script
+Sections
+Examples
+Keywords
+examplesList
+valueEndSection
+1/1
+1/2
+1/3
+1/4
+1/5
+1/6
+1/7
+1/8
+1/9
+1/10
+2/2
+2/3
+2/4
+2/5
+2/6
+2/7
+2/8
+2/9
+2/10
+3/3
+3/4
+3/5
+3/6
+3/7
+3/8
+3/9
+3/10
+4/4
+4/5
+4/6
+4/7
+4/8
+4/9
+4/10
+5/5
+5/6
+5/7
+5/8
+5/9
+5/10
+6/6
+6/7
+6/8
+6/9
+6/10
+7/7
+7/8
+7/9
+7/10
+8/8
+8/9
+8/10
+9/9
+9/10
+ValueTransition
+1 -> 2
+2 -> 3
+3 -> 4
+4 -> 5
+5 -> 6
+ValueTransitionReverse
+6 -> 5
+5 -> 4
+4 -> 3
+3 -> 2
+2 -> 1
+1 -> 0
+0 -> -1
+-1 -> -2
+-2 -> -3
+-3 -> -4
+-4 -> -5
+-5 -> -6
+-----------
+|  (*)  |
+''' | '''
+  | | |
+ |  |  |
+''' | '''
+|  / \  |
+***********
+-! FREE ME!
+-----------
+Key terms:
+"episode" "ep" # episode also falls with season
+"part" "prt" "pt" # don't confuse with physical parts, such as a nail, screw, hinge, body part, etc
+"chapter" "chap" "ch" # context normally goes with books. Usually isn't used with videos or pictures as often
+"season" "s" # season also falls with episode, don't mistake season for weather seasons or food seasoning
+"section" "sect" # section
+'''
+Visual search
+text=""
+graphic
+# I don't even know how to format this yet, as I don't have ways of testing a visual algorithm, or an algorithm at all with the current state of the site
+'''
+''' make this into an actual script when you get the core ready (Python 4.0 compatible, as it should be out by the time the core is stable (current: 3.8.0b3 (July 29th 2019)) '''
+# End of script
